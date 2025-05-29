@@ -1,4 +1,4 @@
-![Portada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatascientest.com%2Fes%2Ftrabajo-data-analyst&psig=AOvVaw3QwZ9ccredFuZ124sKbMbP&ust=1748563544838000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiYj4Kxx40DFQAAAAAdAAAAABAE)
+![Portada]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatascientest.com%2Fes%2Ftrabajo-data-analyst&psig=AOvVaw3QwZ9ccredFuZ124sKbMbP&ust=1748563544838000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiYj4Kxx40DFQAAAAAdAAAAABAE](https://www.freepik.es/vector-gratis/hacker-que-opera-ilustracion-icono-historieta-ordenador-portatil-concepto-icono-tecnologia-aislado-estilo-dibujos-animados-plana_11602236.htm#fromView=keyword&page=1&position=1&uuid=4efb84a0-6a83-4a33-aab4-d520ccfb124e&query=Github))
 
 # Uri Carmona
 
