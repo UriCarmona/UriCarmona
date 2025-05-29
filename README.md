@@ -1,9 +1,3 @@
-## Hola mi nombre es Uri Carmona ¡Gusto Saludarte!👋
-
-<!--
-**UriCarmona/UriCarmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Portada](https://via.placeholder.com/800x200.png?text=Analista+de+Datos+-+Uri+Carmona)
-
 # Uri Carmona
 
 ---
