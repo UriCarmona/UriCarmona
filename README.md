@@ -1,5 +1,5 @@
-# Uri Carmona
-
+# Hola mi nombre es  Uri Carmona ¡Gusto en saludarte!
+![Portada](https://via.placeholder.com/800x200.png?text=Analista+de+Datos+-+Uri+Carmona)
 ---
 
 ## Sobre mí
